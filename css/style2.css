@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(112, 91, 206);
+    color: white;
+}
+#logo{
+    background-image:url('../img/pattern.png');
+    padding-top: 70px;
+    background-color: red;
+}
+#booleaner{
+    color: rgb(255, 255, 255);
+}
+#data{
+    font-size: 12px;
+}
+.descrizione{
+    font-size: 10px;
+}
+#desc1{
+    font-family:'Times New Roman', Times, serif
+}
+thead{
+    background-color: rgb(251, 255, 0);
+    color: rgb(0, 0, 0)
+}
+tbody{
+    background-color: rgb(177, 229, 242);
+    color: black;
+}
+#rigacentro{
+    background-color: white;
+}
+#footerh{
+    color: rgb(49, 48, 48);
+}
+
+.imgf{
+    z-index: -1;
+    position: relative;
+}
+.testof {
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+  }
