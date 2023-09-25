@@ -1,11 +1,27 @@
 #logo{
    background-image:url('img/pattern.png');
    padding-top: 70px;
-   background-color: rgb(25, 125, 255);
+   background-color: rgb(78, 160, 255);
 }
 #booleaner{
     color: rgb(28, 149, 197);
 }
 #data{
     font-size: 12px;
+}
+.descrizione{
+    font-size: 10px;
+}
+#desc1{
+    font-family:'Times New Roman', Times, serif
+}
+thead{
+    background-color: rgb(32, 169, 229);
+    color: white
+}
+tbody{
+    background-color: rgb(177, 229, 242);
+}
+#rigacentro{
+    background-color: white;
 }
